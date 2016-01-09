@@ -1,6 +1,6 @@
 # Chocolate Sweeper
 
-To run, open the .sln file in Visual Studio and hit "Run".
+Created in C#. To run, open the .sln file in Visual Studio and hit "Run".
 
 Objective
 -----------
